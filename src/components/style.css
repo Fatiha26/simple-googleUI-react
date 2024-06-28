@@ -157,3 +157,34 @@ input{
     font-size: 0.8rem;
     margin-top: 1rem;
 }
+
+@media (max-width: 380px){
+    .top-inner{
+        margin: 0.3rem 1.5rem;
+    }
+    .container{
+        margin-top: 3rem;
+    }
+    .container .logo{
+        width: 16rem;
+    }
+    input{
+        width: 20rem;
+        margin-top: -4rem;
+    }
+    .left-icon{
+        left: 13%;
+        top: 21.9rem;
+    }
+    .right-icon{
+        right: 10%;
+        top: 21.8rem;
+
+    }
+    .right-icon i{
+        margin-right: 0.5rem;
+    }
+    .bottom-icon{
+        margin-left: -2rem;
+    }
+}
