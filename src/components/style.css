@@ -188,3 +188,14 @@ input{
         margin-left: -2rem;
     }
 }
+@media (max-width:880px){
+    .left-icon{
+        left: 19%;
+        top: 20.8rem;
+    }
+    .right-icon{
+        right: 19%;
+        top: 20.7rem;
+
+    }
+}
